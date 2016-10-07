@@ -6,3 +6,4 @@ blood.log
 .idea/*
 out/*
 *.iml
+target

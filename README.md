@@ -36,10 +36,10 @@ schema and data are initialized using ```schema-${platform}.sql``` and ```data-$
 ## Invoke Application
 
 ### through browser
-to make POST requests from your browser use tools like : https://chrome.google.com/webstore/detail/rest-console/cokgbflfommojglbmbpenpphppikmonn
+to make POST requests from your browser use tools like : https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop or just use curl :)
 
 
-to add a user make a POST like this example : ```http://localhost:9095/user/Yazid Cherfi```
+to add a user make a POST like this example : ```http://localhost:9095/user/BoualaamElFar```
 to list all application users : ```http://localhost:9095/user```
 
 ### Add a user
